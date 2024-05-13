@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dot Net, React Native**
 
-- 👨‍💻 All of my projects are available at [https://uk24-portfolio.netlify.app/](https://uk24-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://uk-portfolio-24.vercel.app/](https://uk-portfolio-24.vercel.app/)
 
 - 💬 Ask me about **react, tailwind, next js**
 
